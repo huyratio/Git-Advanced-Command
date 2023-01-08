@@ -1,0 +1,2 @@
+This is document B
+All information is about practicing git
