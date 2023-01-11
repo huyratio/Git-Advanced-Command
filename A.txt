@@ -4,3 +4,4 @@ Line 2
 Line 3
 Line 4 extra text 1
 Line 5 extra
+Line 6
